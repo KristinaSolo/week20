@@ -1,0 +1,18 @@
+.cont{
+    color: azure;
+    background-color: rgb(23, 17, 17);
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 250px;
+   
+}
+
+.btn{
+
+    padding: 10px;
+}
+
+
